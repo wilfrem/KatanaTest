@@ -1,1 +1,1 @@
-web: mono KatanaTest/bin/Release/KatanaTest.exe $PORT
+web: mono KatanaTest.exe $PORT
